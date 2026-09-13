@@ -1,0 +1,16 @@
+# Expense Tracker CSV
+
+A Python-based expense tracker that stores expense data in a CSV file.
+
+## Features
+
+- Add expenses
+- View recorded expenses
+- Calculate total spending
+- Store data permanently using CSV
+
+## Technologies
+
+- Python
+- CSV
+- File Handling
